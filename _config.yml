@@ -9,15 +9,15 @@ gordalserg (at) gmail.com'
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: alexey gordeev, gordeev alexey, alexeygordeev, gordeevalexey
-description: Alexey Gordeev is a researcher in combinatorics and discrete mathematics. His research interests include row-column designs, polynomial method in combinatorics, extremal hypergraph problems, list coloring, geometric combinatorial optimization.
-canonical: https://c0pymaster.github.io
+description: Alexey Gordeev is a researcher in combinatorics and discrete mathematics. His research interests include triple arrays, polynomial method in combinatorics, extremal hypergraph problems, list coloring, geometric combinatorial optimization.
+canonical: https://alexey-gordeev.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=B8L49hQAAAAJ&hl=en
 # github_link: https://github.com/yaoyao-liu/minimal-light
 # linkedin: https://www.linkedin.com/
-cv_link: https://c0pymaster.github.io/pdf/CV.pdf
+cv_link: https://alexey-gordeev.github.io/pdf/CV.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
